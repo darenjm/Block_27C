@@ -1,4 +1,4 @@
-# Block 27C Workshop: Puppy Bowl Event
+# Block 27C Workshop: Puppy Bowl Events
 
 ## Overview
 You are tasked with creating a website for the Puppy Bowl Event showcasing team. The website is built using React, and you are required to use the RTK Query library to fetch player details from the provided API endpoint: `https://fsa-puppy-bowl.herokuapp.com/api/${cohort}/players`.
